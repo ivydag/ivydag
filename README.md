@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ivydag
-- 👀 I’m an Android developer
-- 🌱 I’m currently learning coroutines, kotlin, Android and RxJava
+- 👋 Hi, I’m Ivonne
+- 👀 I’m an Android developer with Kotlin and Java, actually more Kotlin than Java. 
+- 🌱 I’m currently learning coroutines
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
